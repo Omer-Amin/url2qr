@@ -2,5 +2,5 @@
 ```bash
 git clone https://github.com/Omer-Amin/url-to-qr-code
 cd url-to-qr-code
-open app.html
+open index.html
 ```
