@@ -1,2 +1,6 @@
 # url-to-qr-code
-Simple online QR code generator for URLs
+```bash
+git clone https://github.com/Omer-Amin/url-to-qr-code
+cd url-to-qr-code
+open app.html
+```
